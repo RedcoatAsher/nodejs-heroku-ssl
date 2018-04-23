@@ -1,2 +1,4 @@
-# nodejs-heroku-ssl
-skeleton framework for nodejs on heroku w/ forced ssl
+heroku-node
+===========
+
+Code for the tutorial by @sevilayha: Deploying Node Apps to Heroku
